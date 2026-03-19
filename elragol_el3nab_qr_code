@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>تحميل تطبيق الرجل العناب</title>
+    <title>تحميل تطبيق عناب</title>
 
     <style>
         body {
@@ -52,13 +52,13 @@
 <div class="container">
     <!-- App Logo -->
     <img src="https://yqbchgdalapflfsujewc.supabase.co/storage/v1/object/sign/elragol%20el3nab/app_logo.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV81MmFmZWQ5My1mMDk3LTQ5M2QtODJmNC0wNDk4OTJlN2JkYTAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJlbHJhZ29sIGVsM25hYi9hcHBfbG9nby5wbmciLCJpYXQiOjE3NjQ4OTE3MTMsImV4cCI6MjA4MDI1MTcxM30.77By2Kjz3y5HDA6vTaICKJEn_XxgRwN2LgaF6C2shGk" 
-         alt="شعار تطبيق الرجل العنّاب" class="logo">
+         alt="شعار تطبيق عناب" class="logo">
 
     <!-- App Name -->
-    <h1>تطبيق الرجل العناب</h1>
+    <h1>تطبيق عناب</h1>
 
     <!-- Slogan -->
-    <p>الرجل العناب هيوصلك لحد الباب</p>
+    <p>عناب هيوصلك لحد الباب</p>
 
     <!-- Download Buttons -->
     <div class="buttons">
